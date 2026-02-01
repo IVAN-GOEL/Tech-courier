@@ -10,3 +10,38 @@ The script is simple to modify, lightweight, and expandable to accommodate:
 • Personalised lists of keywords 
 • Real-time or daily alerts 
 All things considered, this project is an attempt for customised tech news assistant, assisting you in effectively staying informed without experiencing information overload.
+
+You’ll be asked to:
+•	Enter number of topics
+•	Provide keywords of interest
+•	Receive updates directly on Telegram
+
+📬 Sample Telegram Message
+📰 New Tech Update Found!
+🔹 Title: Python 3.13 Performance Improvements
+🔹 Source: Hacker News
+🔹 Sentiment: Positive 😊
+
+⚙️ Customization
+•	➕ Add RSS feeds in feeds.py
+•	🧩 Change keywords anytime
+•	⏳ Adjust update frequency using time.sleep()
+•	📊 Extend sentiment analysis logic easily
+
+📌 Future Enhancements
+•sentiment analysis
+•discord integration 
+•reddit integration
+•summarization
+
+Pull requests are welcome!
+If you find bugs or have feature ideas, feel free to open an issue.
+Please feel free to contribute!
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/832276ef-e7ad-401d-82e4-54d72ac59e3f" />
+
+
+
+
+
+  
