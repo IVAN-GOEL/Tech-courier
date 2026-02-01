@@ -13,7 +13,7 @@ from timeupdate import getTIME
 timee=getTIME()
 
 # my telegram bot token
-TOKEN = "8373869820:AAETJ5EfdpwcVUeMr2ft4I67zFmdYMBpq-4"
+TOKEN = "YOUR_TOKEN_HERE"
 bot = Bot(token=TOKEN)
 CHAT_ID = get_telegram_id()
 
