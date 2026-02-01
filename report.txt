@@ -1,0 +1,34 @@
+########################################################################################################################
+Hey there!!
+,this is tech courier.
+here is your report on your daily updates this report will be updated as per a preset timer
+[Google Tech] Madras Institute of Technology to hold conference on robotics from Feb 19 - DT Next
+https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVFXSnZ6bVFITkE3c29fa3ZmaEU1NzhYU1Nod0JFRm5iaG5zXy1sa09YNEoxSlNHWlF5VGJVbnN4YVhpeEhpUzYyMXBwVzNiS2NwTVZTTTlidTRtV2JWMW9iUjk2YzdxeGk4NlRkRk5Fb2kwMWUzNC1BbUNpdVVUQTZkaUUtT05uT2ZROVRTQzlWbGN2ZVpPVDlkdWNWdUZaQ2M3Tjg0VVNRVjQx0gG6AUFVX3lxTE5CaHB2Z3FsUjR2eE8zaG04SF82eERBWXNLU1BlcDVHLTBXYy1pWXo0WGVqOU1KS3pjTWRZZ0tZUEE1UnJMZWJIaHYyZjRoYVdUSWwyVWNQTmE0ZUlqY3MyTmJxM2lvNDhLMDd6LVdGVW10aEhzNDdlaHZvVm5IUlVVTFNMRTZtVUtLYUFQZElqZTFQS2FVdDFuN3NxODVYc0dfTGxGV3hmSHBXeEg0dTl2aXk2YzJiZzRVdw?oc=5
+
+[Google AI] Artificial intelligence - Machine Learning, Robotics, Algorithms - Britannica
+https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlBVNTh6eWZxb0d4SWxGSHRRaG9tTXl3NVUwVFROYzFSaUlZR0tPX0xKNmszMk52SkVVN1ZSQ0gtRS1laXNzNDktX2ZGdEdGSTc2RnV0b2hEb0NqdDFHWlpYaXU4YnpHa2w1R2ZLSkxadHdQQXR3QW9teVBBd05qVkdSaTZaZllmaWRZb2Rn?oc=5
+
+[MIT AI News] MIT researchers “speak objects into existence” using AI and robotics
+https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
+
+[MLH News] Smart Recipe Application Tutorial with Django and MongoDB
+https://news.mlh.io/smart-recipe-application-tutorial-with-django-and-mongodb-05-07-2025
+
+[Stack Overflow Blog] Wanna see a CSS magic trick?
+https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/
+
+[Google AI Hackathons] Matcha Bot (SIGRobotics) - Embodied AI Hackathon (1st Place) - Hackster.io
+https://news.google.com/rss/articles/CBMingFBVV95cUxOLVFSV3F4TWJiRDBkODRKa0Zfc1NaOVdSb2dVWHI4TmFGdWY1Z3VLbDFCcGF0enRyNGRUS2dDZXQ2dDRqOFZUaFJoV0VUUmRISFZ6UVF5TThMQU8xMzM3aDJyTkhjVFV6Y2FLYWpESXYwcVRUTHVNa2pDU2VQN08zaVQ0MW9mY2NidHVHOTZfYWtXdlNQYkU3U1BaUnNxZw?oc=5
+
+[Google AI Hackathons] AI & Robotics Competition 2025 @ Bangkok - MIT Media Lab
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yaVNTRHFfdlo0eEppSTdrNFJwZXFCMm9XV3UtMXVLUFVaZVYwUVh4V1EyM0xWZHMzbi1yc2QzSVJ6WldacmVuTjRhODYxNUliRk5IRHRDazFkZmRoVnRzMXRvdzhUVmlo?oc=5
+
+[Google Startup Funding] The Week’s 10 Biggest Funding Rounds: A Busy Time For Robotics, Defense Tech And AI - Crunchbase News
+https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjdQTUJ5MldqV1JmSFlzVVdsVUV5ZFV6TC1CVXNmR2R2NHVId21VV0ZyYlFQOUt5MnRoQkpQbFJXcHQyNzJIQjQwWXMtYl9WeGhrMUlnVWFIWkZ6ejlrZ3JmSGNmbWFHb25JT1dWX3BFMThiX2xpeUdoSmlySWxjMkJ5TnQxQ1E2YmJPUg?oc=5
+
+[Real Python] How to Create a Django Project
+https://realpython.com/django-setup/
+
+[Real Python] Quiz: How to Create a Django Project
+https://realpython.com/quizzes/django-setup/
+
