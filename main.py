@@ -7,13 +7,19 @@ import u_inputs
 from u_inputs import Input
 from u_inputs import get_telegram_id
 from timeupdate import getTIME
-
+import os
+from dotenv import load_dotenv
 
 #time in IST is
 timee=getTIME()
 
-# my telegram bot token
-TOKEN = "YOUR_TOKEN_HERE"
+#  telegram bot token
+load_dotenv()  # loads variables from .env
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+
+if not TOKEN:
+    raise ValueError("Telegram bot token not found. Check your .env file.")
+
 bot = Bot(token=TOKEN)
 CHAT_ID = get_telegram_id()
 
